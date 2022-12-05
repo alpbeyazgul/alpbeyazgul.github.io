@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
-#avatar: "images/jonathan_doe.jpg"
+avatar: "alpbeyazgul.github.io/images/avatar.svg"
+#avatar: "images/avatar.svg"
 #avatar:
 
 
@@ -73,12 +73,12 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://linkedin.com/in/alpbeyazgul/
       icon: fab fa-linkedin
   - googleplus:
       name: Github
-      show: false
+      show: true
       href: https://alpbeyazgul.github.io/
       icon: fab fa-github
   - twitter:
