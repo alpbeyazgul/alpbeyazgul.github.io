@@ -58,7 +58,7 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "alpbeyazgul.github.io/images/avatar.svg"
+avatar: "https://alpbeyazgul.github.io/images/avatar.svg"
 #avatar: "images/avatar.svg"
 #avatar:
 
