@@ -43,8 +43,8 @@ baseurl: '/fuse-core'
 #ga:
 ga:
     account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+    cookieconsent: false
+    anonymizeip: false
 
 # Plausible.io Analytics (alternative to Google Analytics that does not need cookies -> no cookie consent required)
 # A config setting is required in plausible to enable tracking of the outbound links. Details described here:
