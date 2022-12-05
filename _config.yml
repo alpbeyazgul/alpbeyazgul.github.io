@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://alpbeyazgul.github.io/images/avatar.svg"
-#avatar: "images/avatar.svg"
+avatar: "https://alpbeyazgul.github.io/images/avatarab.jpg"
+#avatar: "images/avatarab.jpg"
 #avatar:
 
 
@@ -181,5 +181,5 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    BURAYA YAZI GELECEK
+    Public Github Pages | ALP BEYAZGÜL KİŞİSEL BLOG
 
