@@ -1,1 +1,0 @@
-# alpbeyazgul.github.io
